@@ -16,5 +16,5 @@ eureka:
     
 user:
   name: Felix
-  role: Admin
+  role: Employee
 
