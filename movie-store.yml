@@ -18,3 +18,5 @@ user:
   name: Felix
   role: Employee
 
+github:
+  PersonalAccessToken: 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
